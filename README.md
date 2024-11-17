@@ -1,2 +1,2 @@
 # AySO-Parcial2-AlexGonzalez
-2do parcial de AySO
+Nombre: Alex Ivan/Apellido: Gonzalez/Legajo: 113734/División: 316
